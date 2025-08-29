@@ -133,7 +133,7 @@ img {
 /* SIDENAV*/
 .sidenav {
   grid-area: sidenav;
-  padding: 30px;
+  padding: 15px;
   overflow-x: auto; /* horizontal */
   -webkit-overflow-scrolling: touch;
   -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -152,7 +152,6 @@ img {
   display: block;
   min-width: 50px;
   max-width: 75px;
-  margin: 10px auto 30px auto;
   padding: 20px;
   border-radius: 5px;
   box-shadow: 5px 5px 10px rgba(149, 73, 85, 0.3);
@@ -194,6 +193,9 @@ img {
   }
   .sidenav li {
     flex: 1 0 50px;
+  }
+  .sidenav li a {
+    margin: 15px auto 30px auto;
   }
 }
 
