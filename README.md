@@ -1,36 +1,25 @@
 # 🐾 Cutelovely
 
-Projeto baseado no **Wildbeast da Origamid**, recriado para praticar **CSS Grid** e explorar conceitos de **design amigável e responsivo**.
+[![Demo](https://img.shields.io/badge/🔗%20Ver%20Site%20Online-pink)](https://pazedev.github.io/CuteLovely/)  
+[![Behance](https://img.shields.io/badge/🎨%20Case%20no%20Behance-blue)](https://behance.net/seu-case)
+
+Projeto baseado no **Wildbeast da Origamid**, recriado para praticar **CSS Grid** com abordagem **mobile first** e uma estética **fofa e responsiva**.
 
 ---
 
 ## ✨ Objetivo
 
-Criar uma página responsiva utilizando **CSS Grid** com foco em **mobile first**, explorando tipografia, cores e ícones autorais.
+- Praticar **CSS Grid** em um projeto real.
+- Aplicar conceitos de **design responsivo** (mobile first).
+- Criar uma identidade visual acolhedora com cores suaves e ícones autorais.
 
 ---
 
 ## 🎨 Design
 
-- Paleta de cores escolhida no [Coolors.co](https://coolors.co/), com **tons de rosa suaves** para transmitir delicadeza e simpatia.
-- Ícones de gatos criados no **Figma**, com variações de cor para reforçar a identidade visual.
-
-👉 Case completo no Behance: [Cutelovely no Behance](https://behance.net/seu-case)
-
----
-
-## 📱 Mobile First
-
-Embora o projeto original seja pensado em **desktop**, este foi recriado com abordagem **mobile first**, com uma adaptação garantida para diferentes tipos de tela.
-
----
-
-## 🐾 Tecnologias
-
-- HTML5
-- CSS3 (Grid + Flexbox)
-- Figma (ilustrações e ícones)
-- Coolors.co (paleta de cores)
+- Paleta criada no [Coolors.co](https://coolors.co/), explorando **tons de rosa suaves** para transmitir delicadeza.
+- Ícones de gatos desenhados no **Figma**, com cinco variações de cor.
+- Estilo visual inspirado em **sites de mascotes/animais**, mas adaptado para algo mais **fofo e pessoal**.
 
 ---
 
@@ -56,9 +45,9 @@ Embora o projeto original seja pensado em **desktop**, este foi recriado com abo
 Versão mobile
 
 <p align="center">
-  <img src="./img/readme/mobile1.png" width="300">
-  <img src="./img/readme/mobile2.png" width="300">
-  <img src="./img/readme/mobile3.png" width="300">
+  <img src="./img/readme/mobile1.png" width="250">
+  <img src="./img/readme/mobile2.png" width="250">
+  <img src="./img/readme/mobile3.png" width="250">
 </p>
 
 Versão desktop
@@ -69,3 +58,20 @@ Versão desktop
 </p>
 
 ---
+
+## 📌 Futuro / Roadmap
+
+Planejo expandir o **Cutelovely** com novas funcionalidades e páginas, mantendo o foco na responsividade:
+
+- 📱 **Sidenav responsiva** para cada gato (permitindo navegação entre perfis).
+- 📖 **Menu responsivo completo**, incluindo:
+  - Página **Sobre**
+  - Página **Contato**
+- 🎯 **Previsão de conclusão:** Outubro/2025.
+
+---
+
+## 🔗 Links
+
+- [🔗 Ver site online](https://pazedev.github.io/CuteLovely/)
+- [🎨 Case no Behance](https://behance.net/seu-case)
