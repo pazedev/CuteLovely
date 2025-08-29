@@ -56,16 +56,16 @@ Embora o projeto original seja pensado em **desktop**, este foi recriado com abo
 Versão mobile
 
 <p align="center">
-  <img src="./img/readme/mobile1.png" width="auto">
-  <img src="./img/readme/mobile2.png" width="auto">
-  <img src="./img/readme/mobile3.png" width="auto">
+  <img src="./img/readme/mobile1.png" width="100">
+  <img src="./img/readme/mobile2.png" width="100">
+  <img src="./img/readme/mobile3.png" width="100">
 </p>
 
 Versão desktop
 
 <p align="center">
-  <img src="./img/readme/desktop1.png" width="100">
-  <img src="./img/readme/desktop2.png" width="100">
+  <img src="./img/readme/desktop1.png" width="300">
+  <img src="./img/readme/desktop2.png" width="300">
 </p>
 
 ---
