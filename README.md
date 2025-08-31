@@ -1,36 +1,36 @@
 # 🐾 Cutelovely
 
-[![Demo](https://img.shields.io/badge/🔗%20Ver%20Site%20Online-pink)](https://pazedev.github.io/CuteLovely/)  
-[![Behance](https://img.shields.io/badge/🎨%20Case%20no%20Behance-blue)](https://behance.net/seu-case)
+[![Demo](https://img.shields.io/badge/🔗%20View%20Live%20Site-pink)](https://pazedev.github.io/CuteLovely/)  
+[![Behance](https://img.shields.io/badge/🎨%20Case%20on%20Behance-blue)](https://behance.net/seu-case)
 
-Projeto baseado no **Wildbeast da Origamid**, recriado para praticar **CSS Grid** com abordagem **mobile first** e uma estética **fofa e responsiva**.
+Project based on **Origamid's Wildbeast**, recreated to practice **CSS Grid** with a **mobile-first** approach and a **cute and responsive** aesthetic.
 
 ---
 
-## ✨ Objetivo
+## ✨ Goal
 
-- Praticar **CSS Grid** em um projeto real.
-- Aplicar conceitos de **design responsivo** (mobile first).
-- Criar uma identidade visual acolhedora com cores suaves e ícones autorais.
+- Practice **CSS Grid** in a real project.
+- Apply **responsive design** concepts (mobile-first).
+- Create a warm visual identity with soft colors and custom icons.
 
 ---
 
 ## 🎨 Design
 
-- Paleta criada no [Coolors.co](https://coolors.co/), explorando **tons de rosa suaves** para transmitir delicadeza.
-- Ícones de gatos desenhados no **Figma**, com cinco variações de cor.
-- Estilo visual inspirado em **sites de mascotes/animais**, mas adaptado para algo mais **fofo e pessoal**.
+- Palette created on [Coolors.co](https://coolors.co/), exploring **soft pink tones** to convey delicacy.
+- Cat icons drawn in **Figma**, with five color variations.
+- Visual style inspired by **pet/animal websites**, but adapted to something **cute and personal**.
 
 ---
 
 ## 🖼️ Screenshots
 
-### Paleta de cores
+### Color Palette
 
-<a href="https://coolors.co/palette/e3e7e4-fff0f2-f4acb7-f98496-954955"> Paleta Coolors adaptada </a>
+<a href="https://coolors.co/palette/e3e7e4-fff0f2-f4acb7-f98496-954955"> Adapted Coolors Palette </a>
 \_
 
-### Ícones de gatos
+### Cat Icons
 
 <p align="center">
   <img src="./img/icons/amarelo.png" width="50">
@@ -42,7 +42,7 @@ Projeto baseado no **Wildbeast da Origamid**, recriado para praticar **CSS Grid*
 
 ### Layout
 
-Versão mobile
+Mobile Version
 
 <p align="center">
   <img src="./img/readme/mobile1.png" width="250">
@@ -50,7 +50,7 @@ Versão mobile
   <img src="./img/readme/mobile3.png" width="250">
 </p>
 
-Versão desktop
+Desktop Version
 
 <p align="center">
   <img src="./img/readme/desktop1.png" width="500">
@@ -59,17 +59,16 @@ Versão desktop
 
 ---
 
-## 📌 Futuro / Roadmap
+## 📌 Future / Roadmap
 
-Planejo expandir o **Cutelovely** com novas funcionalidades e páginas, mantendo o foco na responsividade:
+I plan to expand **Cutelovely** with new features and pages, keeping a focus on responsiveness:
 
-- 📱 **Sidenav responsiva** para cada gato (permitindo navegação entre perfis).
-- 📖 **Menu responsivo completo**, incluindo:
-  - Página **Sobre**
-  - Página **Contato**
-- 🎯 **Previsão de conclusão:** Outubro/2025.
+- 📱 **Responsive sidenav** for each cat (allowing profile navigation).
+- 📖 **Full responsive menu**, including:
+  - **About** page
+  - **Contact** page
+- 🎯 **Estimated completion:** October/2025.
 
----
 
 ## 🔗 Links
 
