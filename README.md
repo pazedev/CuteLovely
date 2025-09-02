@@ -73,4 +73,4 @@ I plan to expand **Cutelovely** with new features and pages, keeping a focus on 
 ## 🔗 Links
 
 - [🔗 Ver site online](https://pazedev.github.io/CuteLovely/)
-- [🎨 Case no Behance](https://behance.net/seu-case)
+- [🎨 Case no Behance]([https://behance.net/seu-case](https://www.behance.net/gallery/233673851/CuteLovely))
