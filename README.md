@@ -1,7 +1,7 @@
 # 🐾 Cutelovely
 
 [![Demo](https://img.shields.io/badge/🔗%20Ver%20Site%20Online-pink)](https://pazedev.github.io/CuteLovely/)  
-[![Behance](https://img.shields.io/badge/🎨%20Case%20no%20Behance-blue)](https://behance.net/seu-case)
+[![Behance](https://img.shields.io/badge/🎨%20Case%20no%20Behance-blue)](https://www.behance.net/gallery/233673851/CuteLovely)
 
 Projeto baseado no **Wildbeast da Origamid**, recriado para praticar **CSS Grid** com abordagem **mobile first** e uma estética **fofa e responsiva**.
 
@@ -74,4 +74,4 @@ Planejo expandir o **Cutelovely** com novas funcionalidades e páginas, mantendo
 ## 🔗 Links
 
 - [🔗 Ver site online](https://pazedev.github.io/CuteLovely/)
-- [🎨 Case no Behance](https://behance.net/seu-case)
+- [🎨 Case no Behance](https://www.behance.net/gallery/233673851/CuteLovely)
