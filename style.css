@@ -162,6 +162,30 @@ img {
   background: #e3e7e4;
 }
 
+/* Estilo para ícone ativo */
+.sidenav li a.ativo {
+  background: #f4acb7;
+  transform: scale(1.05);
+  box-shadow: 5px 5px 15px rgba(149, 73, 85, 0.5);
+}
+
+.content {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.sidenav li a {
+  cursor: pointer;
+}
+
+.sidenav li a img {
+  transition: transform 0.2s ease;
+}
+
+.sidenav li a.ativo img {
+  transform: scale(1.1);
+}
+
 /* KIT PARA ALTERAR COR DO SCROLL */
 .sidenav::-webkit-scrollbar {
   height: 5px; /* barra horizontal */
