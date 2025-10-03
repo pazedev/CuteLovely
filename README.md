@@ -35,7 +35,7 @@ Project based on **Origamid's Wildbeast**, recreated to practice **CSS Grid** wi
 <p align="center">
   <img src="./img/icons/amarelo.png" width="50">
   <img src="./img/icons/preto.png" width="50">
-  <img src="./img/icons/3 cores.png" width="50">
+  <img src="./img/icons/tricolor.png" width="50">
   <img src="./img/icons/cinza.png" width="50">
   <img src="./img/icons/frajola.png" width="50">
 </p>
@@ -63,7 +63,7 @@ Desktop Version
 
 I plan to expand **Cutelovely** with new features and pages, keeping a focus on responsiveness:
 
-- 📱 **Responsive sidenav** for each cat (allowing profile navigation).
+- 📱 **Responsive sidenav** for each cat (allowing profile navigation). **DONE**: 04/10/25
 - 📖 **Full responsive menu**, including:
   - **About** page
   - **Contact** page

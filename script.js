@@ -66,7 +66,7 @@ const dadosGatos = {
 
   "gato-preto": {
     titulo: "Gato Preto",
-    subtitulo: "O mistério em 4 patas",
+    subtitulo: "o mistério em 4 patas",
     profile: [
       { porcentagem: "60%", label: "mistério" },
       { porcentagem: "30%", label: "carinho" },
@@ -127,7 +127,7 @@ const dadosGatos = {
 
   "gato-tricolor": {
     titulo: "Gato Tricolor",
-    subtitulo: "O Arco-Íris em Forma de Felino",
+    subtitulo: "arco-íris em forma de felino",
     profile: [
       { porcentagem: "50%", label: "exclusividade" },
       { porcentagem: "30%", label: "charme" },
@@ -188,7 +188,7 @@ const dadosGatos = {
 
   "gato-cinza": {
     titulo: "Gato Cinza",
-    subtitulo: "A Elegância da Névoa Felina",
+    subtitulo: "elegância da névoa felina",
     profile: [
       { porcentagem: "50%", label: "serenidade" },
       { porcentagem: "30%", label: "charme" },
@@ -250,7 +250,7 @@ const dadosGatos = {
 
   "gato-frajola": {
     titulo: "Gato Frajola",
-    subtitulo: "O Elegante Palhaço de Gravata Natural",
+    subtitulo: "palhaço de gravata natural",
     profile: [
       { porcentagem: "50%", label: "palhaçada" },
       { porcentagem: "30%", label: "elegância" },
